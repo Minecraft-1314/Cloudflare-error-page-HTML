@@ -18,7 +18,7 @@ This is an HTML project for Cloudflare error pages built on [donlon/cloudflare-e
 
 | 贡献者 (Contributor) | 贡献内容 (Contribution) |
 |----------------------|-------------------------|
-| Minecraft_1314       | 项目发起与核心开发 (Project initiation and core development) |
+| [donlon](https://github.com/donlon) | 项目基础框架提供 (Provided basic project framework) |
 | （欢迎提交 PR 加入贡献者列表） | （Welcome to submit PR to join the contributor list） |
 
 ## 许可协议 (License)
@@ -29,6 +29,6 @@ This project is licensed under the MIT License, see the [LICENSE](LICENSE) file 
 
 ## 支持我们 (Support Us)
 
-如果这个项目对您有帮助，欢迎点亮右上角的 Star ⭐ 支持我们，这将是对开发者最大的鼓励！
+如果这个项目对您有帮助，欢迎点亮右上角的 Star ⭐ 支持我们，这将是对所有贡献者最大的鼓励！
 
-If this project is helpful to you, please feel free to star it in the upper right corner ⭐ to support us, which will be the greatest encouragement to the developers!
+If this project is helpful to you, please feel free to star it in the upper right corner ⭐ to support us, which will be the greatest encouragement to all contributors!
